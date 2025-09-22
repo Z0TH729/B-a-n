@@ -85,7 +85,7 @@ python check_vuln.py
 ```
     echo "========================================================"
     echo "💀 WHATSAPP MASS REPORT v666 (Termux) 💀"
-    echo "🔥 WHESTTY MAKOV - DESTRUA O SISTEMA! 🔥"
+        echo "🔥 ZOTH 729 - FODA-SE O SISTEMA! 🔥"
     echo -e "========================================================\e[0m"
 }
 
